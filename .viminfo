@@ -1,0 +1,316 @@
+# Ce fichier viminfo a été généré par Vim 8.0.
+# Vous pouvez l'éditer, mais soyez prudent.
+
+# Viminfo version
+|1,4
+
+# 'encoding' dans lequel ce fichier a été écrit
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Historique ligne de commande (chronologie décroissante) :
+:wq!
+|2,0,1616572384,,"wq!"
+:q!
+|2,0,1616572303,,"q!"
+
+# Historique chaîne de recherche (chronologie décroissante) :
+
+# Historique expression (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Historique Ligne de débogage (chronologie décroissante) :
+
+# Registres :
+
+# Marques dans le fichier :
+'0  16  5  ~/delete_users.py
+|4,48,16,5,1616572384,"~/delete_users.py"
+'1  14  27  ~/add_users.py
+|4,49,14,27,1616572303,"~/add_users.py"
+'2  18  12  ~/delete_users.py
+|4,50,18,12,1616572277,"~/delete_users.py"
+'3  18  12  ~/delete_users.py
+|4,51,18,12,1616572277,"~/delete_users.py"
+'4  21  12  ~/delete_users.py
+|4,52,21,12,1616572214,"~/delete_users.py"
+'5  21  12  ~/delete_users.py
+|4,53,21,12,1616572214,"~/delete_users.py"
+'6  21  12  ~/delete_users.py
+|4,54,21,12,1616572214,"~/delete_users.py"
+'7  21  12  ~/delete_users.py
+|4,55,21,12,1616572214,"~/delete_users.py"
+'8  14  27  ~/add_users.py
+|4,56,14,27,1616430200,"~/add_users.py"
+'9  15  16  ~/add_users.py
+|4,57,15,16,1616430118,"~/add_users.py"
+
+# Liste de sauts (le plus récent en premier) :
+-'  16  5  ~/delete_users.py
+|4,39,16,5,1616572384,"~/delete_users.py"
+-'  18  12  ~/delete_users.py
+|4,39,18,12,1616572306,"~/delete_users.py"
+-'  14  27  ~/add_users.py
+|4,39,14,27,1616572303,"~/add_users.py"
+-'  14  27  ~/add_users.py
+|4,39,14,27,1616572303,"~/add_users.py"
+-'  18  12  ~/delete_users.py
+|4,39,18,12,1616572277,"~/delete_users.py"
+-'  18  12  ~/delete_users.py
+|4,39,18,12,1616572277,"~/delete_users.py"
+-'  21  12  ~/delete_users.py
+|4,39,21,12,1616572263,"~/delete_users.py"
+-'  21  12  ~/delete_users.py
+|4,39,21,12,1616572263,"~/delete_users.py"
+-'  21  12  ~/delete_users.py
+|4,39,21,12,1616572263,"~/delete_users.py"
+-'  21  12  ~/delete_users.py
+|4,39,21,12,1616572214,"~/delete_users.py"
+-'  21  12  ~/delete_users.py
+|4,39,21,12,1616572214,"~/delete_users.py"
+-'  1  0  ~/delete_users.py
+|4,39,1,0,1616571830,"~/delete_users.py"
+-'  1  0  ~/delete_users.py
+|4,39,1,0,1616571830,"~/delete_users.py"
+-'  1  0  ~/delete_users.py
+|4,39,1,0,1616571830,"~/delete_users.py"
+-'  1  0  ~/delete_users.py
+|4,39,1,0,1616571830,"~/delete_users.py"
+-'  1  0  ~/delete_users.py
+|4,39,1,0,1616571830,"~/delete_users.py"
+-'  14  27  ~/add_users.py
+|4,39,14,27,1616430200,"~/add_users.py"
+-'  14  27  ~/add_users.py
+|4,39,14,27,1616430200,"~/add_users.py"
+-'  14  27  ~/add_users.py
+|4,39,14,27,1616430200,"~/add_users.py"
+-'  14  27  ~/add_users.py
+|4,39,14,27,1616430200,"~/add_users.py"
+-'  14  27  ~/add_users.py
+|4,39,14,27,1616430200,"~/add_users.py"
+-'  14  27  ~/add_users.py
+|4,39,14,27,1616430200,"~/add_users.py"
+-'  14  27  ~/add_users.py
+|4,39,14,27,1616430200,"~/add_users.py"
+-'  14  27  ~/add_users.py
+|4,39,14,27,1616430200,"~/add_users.py"
+-'  15  16  ~/add_users.py
+|4,39,15,16,1616430135,"~/add_users.py"
+-'  15  16  ~/add_users.py
+|4,39,15,16,1616430135,"~/add_users.py"
+-'  15  16  ~/add_users.py
+|4,39,15,16,1616430135,"~/add_users.py"
+-'  15  16  ~/add_users.py
+|4,39,15,16,1616430135,"~/add_users.py"
+-'  15  16  ~/add_users.py
+|4,39,15,16,1616430135,"~/add_users.py"
+-'  15  16  ~/add_users.py
+|4,39,15,16,1616430135,"~/add_users.py"
+-'  15  16  ~/add_users.py
+|4,39,15,16,1616430135,"~/add_users.py"
+-'  15  16  ~/add_users.py
+|4,39,15,16,1616430135,"~/add_users.py"
+-'  15  16  ~/add_users.py
+|4,39,15,16,1616430135,"~/add_users.py"
+-'  15  16  ~/add_users.py
+|4,39,15,16,1616430135,"~/add_users.py"
+-'  15  16  ~/add_users.py
+|4,39,15,16,1616430118,"~/add_users.py"
+-'  15  16  ~/add_users.py
+|4,39,15,16,1616430118,"~/add_users.py"
+-'  15  16  ~/add_users.py
+|4,39,15,16,1616430118,"~/add_users.py"
+-'  15  16  ~/add_users.py
+|4,39,15,16,1616430118,"~/add_users.py"
+-'  15  16  ~/add_users.py
+|4,39,15,16,1616430118,"~/add_users.py"
+-'  15  16  ~/add_users.py
+|4,39,15,16,1616430118,"~/add_users.py"
+-'  15  16  ~/add_users.py
+|4,39,15,16,1616430118,"~/add_users.py"
+-'  15  16  ~/add_users.py
+|4,39,15,16,1616430118,"~/add_users.py"
+-'  15  34  ~/add_users.py
+|4,39,15,34,1616429772,"~/add_users.py"
+-'  15  34  ~/add_users.py
+|4,39,15,34,1616429772,"~/add_users.py"
+-'  15  34  ~/add_users.py
+|4,39,15,34,1616429772,"~/add_users.py"
+-'  15  34  ~/add_users.py
+|4,39,15,34,1616429772,"~/add_users.py"
+-'  15  34  ~/add_users.py
+|4,39,15,34,1616429772,"~/add_users.py"
+-'  15  34  ~/add_users.py
+|4,39,15,34,1616429772,"~/add_users.py"
+-'  15  34  ~/add_users.py
+|4,39,15,34,1616429772,"~/add_users.py"
+-'  15  34  ~/add_users.py
+|4,39,15,34,1616429772,"~/add_users.py"
+-'  15  33  ~/add_users.py
+|4,39,15,33,1616429715,"~/add_users.py"
+-'  15  33  ~/add_users.py
+|4,39,15,33,1616429715,"~/add_users.py"
+-'  15  33  ~/add_users.py
+|4,39,15,33,1616429715,"~/add_users.py"
+-'  15  33  ~/add_users.py
+|4,39,15,33,1616429715,"~/add_users.py"
+-'  15  33  ~/add_users.py
+|4,39,15,33,1616429715,"~/add_users.py"
+-'  15  33  ~/add_users.py
+|4,39,15,33,1616429715,"~/add_users.py"
+-'  15  33  ~/add_users.py
+|4,39,15,33,1616429715,"~/add_users.py"
+-'  15  33  ~/add_users.py
+|4,39,15,33,1616429715,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429694,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429611,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429611,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429611,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429611,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429611,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429611,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429611,"~/add_users.py"
+-'  18  9  ~/add_users.py
+|4,39,18,9,1616429611,"~/add_users.py"
+
+# Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> ~/delete_users.py
+	*	1616572382	0
+	"	16	5
+	^	16	6
+	.	16	6
+	+	21	12
+	+	16	6
+
+> ~/add_users.py
+	*	1616572296	0
+	"	14	27
+	^	14	28
+	.	14	27
+	+	18	9
+	+	15	19
+	+	14	27
+
+> /home/cedrick/Bureau/scan.py
+	*	1616428504	0
+	"	3	0
+	^	3	0
+	.	2	0
+	+	1	4
+	+	1	22
+	+	11	1
+	+	5	5
+	+	2	1
+	+	2	0
+	+	5	19
+	+	17	37
+	+	2	0
+
+> /home/cedrick/Bureau/scanner_ports.py
+	*	1616428454	0
+	"	22	15
+	^	1	1
+	.	22	1
+	+	1	16
+	+	1	0
+	+	2	0
+	+	8	14
+	+	7	0
+	+	7	7
+	+	8	31
+	+	16	3
+	+	14	35
+	+	20	55
+	+	22	15
+	+	14	35
+	+	22	1
+
+> /home/cedrick/Bureau/information_systeme.py
+	*	1616410060	0
+	"	11	52
+	^	11	53
+	.	11	52
+	+	11	6
+	+	7	54
+	+	8	52
+	+	9	53
+	+	10	52
+	+	11	52
